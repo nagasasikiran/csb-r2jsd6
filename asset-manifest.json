@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://nagasasikiran.github.io/csb-r2jsd6/static/css/main.5467d095.chunk.css",
+    "main.js": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/main.a3bcae98.chunk.js",
+    "main.js.map": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/main.a3bcae98.chunk.js.map",
+    "runtime-main.js": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/runtime-main.b07f1eac.js",
+    "runtime-main.js.map": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/runtime-main.b07f1eac.js.map",
+    "static/css/2.22e5fe34.chunk.css": "https://nagasasikiran.github.io/csb-r2jsd6/static/css/2.22e5fe34.chunk.css",
+    "static/js/2.f0e91f5e.chunk.js": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/2.f0e91f5e.chunk.js",
+    "static/js/2.f0e91f5e.chunk.js.map": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/2.f0e91f5e.chunk.js.map",
+    "index.html": "https://nagasasikiran.github.io/csb-r2jsd6/index.html",
+    "static/css/2.22e5fe34.chunk.css.map": "https://nagasasikiran.github.io/csb-r2jsd6/static/css/2.22e5fe34.chunk.css.map",
+    "static/css/main.5467d095.chunk.css.map": "https://nagasasikiran.github.io/csb-r2jsd6/static/css/main.5467d095.chunk.css.map",
+    "static/js/2.f0e91f5e.chunk.js.LICENSE.txt": "https://nagasasikiran.github.io/csb-r2jsd6/static/js/2.f0e91f5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07f1eac.js",
+    "static/css/2.22e5fe34.chunk.css",
+    "static/js/2.f0e91f5e.chunk.js",
+    "static/css/main.5467d095.chunk.css",
+    "static/js/main.a3bcae98.chunk.js"
+  ]
+}
